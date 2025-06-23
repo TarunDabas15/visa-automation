@@ -8,7 +8,8 @@ Selenium-based script using Python automating the Homescreen to till Login page 
 - Selenium
 - Google Chrome (compatible with your `chromedriver`)  
 
-#Usage
+# Usage
 Run the script directly-
-python main.py
+
+- python main.py
 
