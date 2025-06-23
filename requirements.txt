@@ -1,0 +1,5 @@
+# Technology Requirements
+
+- Python 3.8+
+- Selenium
+- ChromeDriver
